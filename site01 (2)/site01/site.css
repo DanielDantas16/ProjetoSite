@@ -135,9 +135,14 @@
 
 }
 
-.oi , opa{
+.videos{
     display: flex;
     align-items: center;
     position: relative;
-    ;
+    
+}
+
+.oi{
+    position: relative;
+    left: 32rem;
 }
