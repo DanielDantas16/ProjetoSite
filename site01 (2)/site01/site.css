@@ -20,7 +20,7 @@
     align-items: center;
     justify-content: center;
     flex: 1;
-    
+
 }
 
 .pesquisa {
@@ -62,9 +62,10 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-.carousel{
+.carousel {
     justify-items: center;
 }
+
 .carousel-inner {
     max-width: 900px;
     margin-top: 2em;
@@ -124,4 +125,19 @@
     padding: auto;
     margin: 0%;
     text-align: center;
+}
+
+.mini-videos {
+    width: 350px;
+    height: 250px;
+    position: relative;
+    left: 31rem;
+
+}
+
+.oi , opa{
+    display: flex;
+    align-items: center;
+    position: relative;
+    ;
 }
